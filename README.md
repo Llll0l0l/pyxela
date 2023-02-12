@@ -1,2 +1,2 @@
 # pyxela
-habit tracer 
+habit tracker 
